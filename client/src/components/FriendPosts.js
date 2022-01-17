@@ -4,8 +4,6 @@ import axios from "axios"
 
 export default function FriendPosts({post,date,userName}) {
 
-    console.log(userName)
-
     return (
         <div className="userposts">
             <div className="userpostsWrapper">
