@@ -6,4 +6,4 @@
 
 ### Register -> Login -> Make a comment
 ### Create a new account -> Login -> The other users are visible on the left hand side
-### Add a new friend -> friend's comments are visible
+### Add a new friend -> Friend's comments are visible
