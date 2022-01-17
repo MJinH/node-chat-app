@@ -5,5 +5,5 @@
 ## Steps:
 
 ### Register -> Login -> Make a comment
-### Create a new account -> Login -> User List is visible on the left hand side
+### Create a new account -> Login -> The other users are visible on the left hand side
 ### Add a new friend -> friend's comments are visible
